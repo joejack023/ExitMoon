@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ExitMoon ($XIT)</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #1e1e1e;
+      color: #f0e6d2;
+    }
+    header {
+      background-color: #f57c00;
+      padding: 2rem;
+      text-align: center;
+    }
+    header img {
+      max-width: 150px;
+    }
+    h1 {
+      margin: 0.5rem 0 0;
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .btn {
+      background-color: #f57c00;
+      color: black;
+      padding: 1rem 2rem;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .btn:hover {
+      background-color: #ff9800;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #111;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="/mnt/data/Apr 24, 2025 at 06_24_02 PM.png" alt="ExitMoon Logo" />
+    <h1>ExitMoon ($XIT)</h1>
+    <p>Escape gravity. Launch into the future of decentralized finance.</p>
+  </header>
+
+  <section>
+    <h2>What is $XIT?</h2>
+    <p>
+      $XIT is your ticket to the moon — and beyond. Built on a secure, scalable blockchain,
+      ExitMoon empowers users to exit traditional finance and enter a bold, permissionless future.
+    </p>
+
+    <h2>Why ExitMoon?</h2>
+    <ul>
+      <li>🚀 Deflationary tokenomics</li>
+      <li>🌕 Moon mission roadmap</li>
+      <li>🛸 Community governance</li>
+      <li>🔒 Audited smart contracts</li>
+    </ul>
+
+    <button class="btn">Join the Mission</button>
+  </section>
+
+  <footer>
+    &copy; 2025 ExitMoon. All rights reserved.
+  </footer>
+</body>
+</html>
